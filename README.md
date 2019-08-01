@@ -15,10 +15,10 @@
   <a href="https://www.paypal.me/posquit0">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
--->
   <a href="https://circleci.com/gh/posquit0/Awesome-CV">
     <img alt="CircleCI" src="https://circleci.com/gh/posquit0/Awesome-CV.svg?style=shield" />
   </a>
+-->
   <a href="https://gitlab.com/wooheaven/Awesome-CV/blob/master/examples/resume.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
@@ -38,13 +38,13 @@
 
 ## Preview
 
-#### Résumé
+#### Resume
 
 You can see [PDF](examples/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Resume1](examples/resume-0.png)] | [![Resume](examples/resume-1.png)] |
+| ![Resume1](examples/resume-0.png) | ![Resume](examples/resume-1.png) |
 
 #### Cover Letter
 
