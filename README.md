@@ -40,8 +40,6 @@
 
 #### Resume
 
-You can see [PDF](examples/resume.pdf)
-
 | Page. 1 | Page. 2 |
 |:---:|:---:|
 | ![Resume1](examples/resume-0.png) | ![Resume](examples/resume-1.png) |
