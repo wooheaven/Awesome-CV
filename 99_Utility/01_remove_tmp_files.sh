@@ -10,6 +10,7 @@ else
 	rm -rf examples/resume.aux
 	rm -rf examples/resume.log
 	rm -rf examples/resume.out
+	rm -rf examples/resume/education.log	
 	rm -rf examples/resume.synctex.gz
 fi
 
