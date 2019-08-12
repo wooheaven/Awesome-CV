@@ -681,6 +681,18 @@
   \vspace{-4.0mm}
 }
 
+% Define an environment for skillitems
+\newenvironment{skillitems}{%
+  \vspace{-4.0mm}
+  \begin{justify}
+  \begin{itemize}[leftmargin=0ex, nosep, noitemsep]
+    \setlength{\parskip}{0pt}
+    \renewcommand{\labelitemi}
+}{%
+  \end{itemize}
+  \end{justify}
+  \vspace{-4.0mm}
+}
 
 %-------------------------------------------------------------------------------
 %                Commands for elements of Cover Letter
