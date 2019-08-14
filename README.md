@@ -19,7 +19,7 @@
     <img alt="CircleCI" src="https://circleci.com/gh/posquit0/Awesome-CV.svg?style=shield" />
   </a>
 -->
-  <a href="https://gitlab.com/wooheaven/Awesome-CV/blob/master/examples/resume.pdf">
+  <a href="https://gitlab.com/wooheaven/Awesome-CV/blob/noClient/examples/resume.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
