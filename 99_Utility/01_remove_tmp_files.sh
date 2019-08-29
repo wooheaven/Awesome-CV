@@ -14,6 +14,7 @@ else
 	rm -rf examples/resume.out
 	rm -rf examples/resume_korean.out
 	rm -rf examples/resume/education.log	
+	rm -rf examples/resume/experience_korean.log
 	rm -rf examples/resume/project.log	
 	rm -rf examples/resume.synctex.gz
 	rm -rf examples/resume_korean.synctex.gz
