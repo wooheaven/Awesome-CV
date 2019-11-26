@@ -42,7 +42,7 @@
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| ![Resume1](examples/resume-0.png) | ![Resume](examples/resume-1.png) |
+| ![Resume1](examples/resume-1p.png) | ![Resume](examples/resume-2p.png) |
 
 #### Cover Letter
 
