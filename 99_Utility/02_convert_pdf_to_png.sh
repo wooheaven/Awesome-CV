@@ -1,4 +1,4 @@
 #!/bin/bash
 
-convert examples/resume.pdf[0] -background "#FFFFFF" -flatten -quality 0 examples/resume-0.png
-convert examples/resume.pdf[1] -background "#FFFFFF" -flatten -quality 0 examples/resume-1.png
+pdftoppm examples/resume.pdf examples/resume-1p -png -f 1 -singlefile
+pdftoppm examples/resume.pdf examples/resume-2p -png -f 2 -singlefile
